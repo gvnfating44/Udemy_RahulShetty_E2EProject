@@ -1,0 +1,7 @@
+13:06:29.079 [TestNG] INFO  Framework.VerifyTitleTest - Navigate to HomePage
+13:06:29.977 [TestNG] INFO  Framework.HomePageTest - Navigate to the LoginPage
+13:06:30.434 [TestNG] INFO  Framework.HomePageTest - non restricted user
+13:06:30.434 [TestNG] INFO  Framework.HomePageTest - Username and password entered successfully
+13:06:33.506 [TestNG] INFO  Framework.HomePageTest - Navigate to the landingpage
+13:06:33.983 [TestNG] INFO  Framework.HomePageTest - Navigate to the LoginPage
+13:06:34.261 [TestNG] INFO  Framework.HomePageTest - restricted user

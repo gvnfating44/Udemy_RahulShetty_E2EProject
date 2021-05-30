@@ -1,0 +1,7 @@
+15:18:00.250 [main] INFO  Framework.VerifyTitleTest - driver is initialized
+15:18:17.190 [main] INFO  Framework.VerifyTitleTest - Navigate to HomePage
+15:19:03.062 [main] INFO  Framework.VerifyNavigationBarTest - Navigation Bar is display
+15:19:06.551 [main] INFO  Framework.HomePageTest - Navigate to the landingpage
+15:19:08.449 [main] INFO  Framework.HomePageTest - Navigate to the LoginPage
+15:19:08.746 [main] INFO  Framework.HomePageTest - non restricted user
+15:19:08.746 [main] INFO  Framework.HomePageTest - Username and password entered successfully

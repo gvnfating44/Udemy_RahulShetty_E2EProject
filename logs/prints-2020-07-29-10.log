@@ -1,0 +1,7 @@
+10:58:31.814 [TestNG] INFO  Framework.VerifyNavigationBarTest - Navigation Bar is display
+10:58:34.206 [TestNG] INFO  Framework.VerifyTitleTest - Navigate to HomePage
+10:58:34.333 [TestNG] INFO  Framework.VerifyTitleTest - Successfully validate text message
+10:58:34.491 [TestNG] INFO  Framework.HomePageTest - Navigate to the landingpage
+10:58:35.767 [TestNG] INFO  Framework.HomePageTest - Navigate to the LoginPage
+10:58:36.069 [TestNG] INFO  Framework.HomePageTest - non restricted user
+10:58:36.070 [TestNG] INFO  Framework.HomePageTest - Username and password entered successfully

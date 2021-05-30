@@ -1,0 +1,6 @@
+18:55:33.398 [main] INFO  Framework.VerifyTitleTest - Successfully validate text message
+18:55:33.525 [main] INFO  Framework.VerifyNavigationBarTest - Navigation Bar is display
+18:55:41.369 [main] INFO  Framework.HomePageTest - Navigate to the landingpage
+18:55:43.000 [main] INFO  Framework.HomePageTest - Navigate to the LoginPage
+18:55:43.384 [main] INFO  Framework.HomePageTest - non restricted user
+18:55:43.384 [main] INFO  Framework.HomePageTest - Username and password entered successfully

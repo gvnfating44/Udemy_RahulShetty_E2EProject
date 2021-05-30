@@ -1,0 +1,7 @@
+12:50:44.851 [main] INFO  Framework.HomePageTest - Navigate to the LoginPage
+12:50:45.134 [main] INFO  Framework.HomePageTest - restricted user
+12:50:45.134 [main] INFO  Framework.HomePageTest - Username and password entered successfully
+12:52:21.482 [main] INFO  Framework.HomePageTest - Navigate to the landingpage
+12:52:22.889 [main] INFO  Framework.HomePageTest - Navigate to the LoginPage
+12:52:23.120 [main] INFO  Framework.HomePageTest - non restricted user
+12:52:23.121 [main] INFO  Framework.HomePageTest - Username and password entered successfully

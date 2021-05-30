@@ -1,0 +1,6 @@
+13:06:34.262 [TestNG] INFO  Framework.HomePageTest - Username and password entered successfully
+14:50:36.937 [TestNG] INFO  Framework.VerifyTitleTest - driver is initialized
+14:50:42.855 [TestNG] INFO  Framework.VerifyNavigationBarTest - Navigation Bar is display
+14:50:44.479 [TestNG] INFO  Framework.HomePageTest - Navigate to the landingpage
+14:50:45.410 [TestNG] INFO  Framework.HomePageTest - Navigate to the LoginPage
+14:50:45.706 [TestNG] INFO  Framework.HomePageTest - non restricted user

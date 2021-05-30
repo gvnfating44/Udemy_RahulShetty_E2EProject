@@ -1,0 +1,6 @@
+15:19:15.737 [main] INFO  Framework.HomePageTest - Navigate to the landingpage
+15:19:16.206 [main] INFO  Framework.HomePageTest - Navigate to the LoginPage
+15:19:16.456 [main] INFO  Framework.HomePageTest - restricted user
+15:19:16.457 [main] INFO  Framework.HomePageTest - Username and password entered successfully
+15:20:07.548 [main] INFO  Framework.VerifyTitleTest - driver is initialized
+15:20:30.638 [main] INFO  Framework.VerifyTitleTest - Navigate to HomePage

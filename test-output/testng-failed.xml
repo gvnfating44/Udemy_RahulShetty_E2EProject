@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="Framework.Listeners"/>
+  </listeners>
+  <test parallel="tests" name="Validating user Login (failed)">
+    <classes>
+      <class name="Framework.HomePageTest">
+        <methods>
+          <include name="basePageNavigation"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- Framework.HomePageTest -->
+      <class name="Framework.VerifyNavigationBarTest">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- Framework.VerifyNavigationBarTest -->
+      <class name="Framework.VerifyTitleTest">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- Framework.VerifyTitleTest -->
+    </classes>
+  </test> <!-- Validating user Login (failed) -->
+  <test parallel="tests" name="Validating Title in the page(failed)">
+    <classes>
+      <class name="Framework.HomePageTest">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- Framework.HomePageTest -->
+      <class name="Framework.VerifyNavigationBarTest">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- Framework.VerifyNavigationBarTest -->
+      <class name="Framework.VerifyTitleTest">
+        <methods>
+          <include name="initialize"/>
+          <include name="VerifyFestureCourseText"/>
+        </methods>
+      </class> <!-- Framework.VerifyTitleTest -->
+    </classes>
+  </test> <!-- Validating Title in the page(failed) -->
+  <test parallel="tests" name="Validating Navigation Bar(failed)">
+    <classes>
+      <class name="Framework.HomePageTest">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- Framework.HomePageTest -->
+      <class name="Framework.VerifyNavigationBarTest">
+        <methods>
+          <include name="baseNavigationBar"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- Framework.VerifyNavigationBarTest -->
+      <class name="Framework.VerifyTitleTest">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- Framework.VerifyTitleTest -->
+    </classes>
+  </test> <!-- Validating Navigation Bar(failed) -->
+</suite> <!-- Failed suite [Suite] -->
